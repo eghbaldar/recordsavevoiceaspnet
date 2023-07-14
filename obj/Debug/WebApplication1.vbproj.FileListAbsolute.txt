@@ -58,3 +58,123 @@ C:\Users\IRANFILMPORT\Desktop\New folder\WebApplication1\WebApplication1\obj\Deb
 C:\Users\IRANFILMPORT\Desktop\New folder\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 C:\Users\IRANFILMPORT\Desktop\New folder\WebApplication1\WebApplication1\obj\Debug\WebApplication1.xml
 C:\Users\IRANFILMPORT\Desktop\New folder\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\WebApplication1.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\WebApplication1.pdb
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\WebApplication1.xml
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\csc.exe
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\csi.exe
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.Security.Claims.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\obj\Debug\WebApplication1.vbprojAssemblyReference.cache
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\obj\Debug\WebApplication1.vbproj.GenerateResource.cache
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\obj\Debug\WebApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\obj\Debug\WebApplication1.vbproj.CopyComplete
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\obj\Debug\WebApplication1.xml
+C:\Users\IRANFILMPORT\Desktop\recordsavevoiceaspnet\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\WebApplication1.dll.config
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\WebApplication1.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\WebApplication1.pdb
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\WebApplication1.xml
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\csc.exe
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\csc.exe.config
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\csc.rsp
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\csi.exe
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\csi.exe.config
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\csi.rsp
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.Console.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.Security.Claims.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\vbc.exe
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\vbc.exe.config
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\vbc.rsp
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\obj\Debug\WebApplication1.vbprojAssemblyReference.cache
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\obj\Debug\WebApplication1.vbproj.GenerateResource.cache
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\obj\Debug\WebApplication1.vbproj.CoreCompileInputs.cache
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\obj\Debug\WebApplication1.vbproj.CopyComplete
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\obj\Debug\WebApplication1.dll
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\obj\Debug\WebApplication1.xml
+D:\_Developing_\_SOURCE_\Record Save Voice\recordsavevoiceaspnet\WebApplication1\obj\Debug\WebApplication1.pdb
