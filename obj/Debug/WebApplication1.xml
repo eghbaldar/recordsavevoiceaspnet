@@ -37,9 +37,9 @@ WebApplication1
  Returns the Asp log object.
  </summary>
 </member>
-<member name="F:WebApplication1.WebForm1._Button1">
+<member name="F:WebApplication1.WebForm1._GridViewVocies">
 <summary>
-Button1 control.
+GridViewVocies control.
 </summary>
 <remarks>
 Auto-generated field.
